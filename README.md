@@ -8,4 +8,4 @@ Benjamín Iturra
 
 Benjamín Senler
 
-Nicolas Perez
+Nicolás Perez
