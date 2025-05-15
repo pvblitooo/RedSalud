@@ -1,5 +1,8 @@
 Aplicacion RedSalud
 
-Integrantes 
+Integrantes
 
-Pablo Morales git 
+Pablo Morales
+Benjamín Iturra
+Benjamín Senler
+Nicolas Perez
